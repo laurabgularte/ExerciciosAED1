@@ -1,4 +1,4 @@
-## Exercicios LP I
+## Exercicios AED I
 
-Repositório destinado a resolução de exercícios dados durante as aulas de Linguagem de Programação I (Algoritmos e Estruturas de Dados).
+Repositório destinado a resolução de exercícios dados durante as aulas de Algoritmos e Estrutura de Dados I 
 Linguagem utilizada: C.
